@@ -1,0 +1,19 @@
+#addRoomDiv{
+
+    margin-top: 10%;
+}
+.addRoomItem{
+
+    width: 400px;
+    height: 50px;
+    background-color: rgba(36, 32, 32, 0.804);
+    color: white;
+    font-size: larger;
+    margin-top: 20px;
+
+}
+#addRoomBtn{
+
+    font-size: x-large;
+    font-weight: bolder;
+}

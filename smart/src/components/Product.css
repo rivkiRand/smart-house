@@ -1,0 +1,19 @@
+#productDiv{
+    width: 100%;
+   
+}
+.productItem{
+    width: 27%;
+    display: inline-block;
+}
+#productBtn{
+    background-color: white;
+    border: none;
+
+}
+#delete{
+    
+    width: 25px;
+    height: 25px;
+
+}
